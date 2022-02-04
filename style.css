@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    color:white;
+}
+
+#faces, #person_name, #person_accuracy{
+    color: paleturquoise;
+}
+
+#camera{
+    height:300px;
+    width:350px;
+    border: 2px dashed black;
+}
